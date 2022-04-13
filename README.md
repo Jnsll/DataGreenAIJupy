@@ -1,4 +1,4 @@
-# DataGreenAIJupy
+# DataGreenAIJupySlides
 Jupyter notebook Slides about the Data-Centric Green AI paper accepted @ICT4S 2022 and associated https://github.com/GreenAIproject/ICT4S22 project
 
 Created for the DiverSE Coffee presentation done on 04/14/22.
